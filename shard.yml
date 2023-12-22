@@ -1,0 +1,17 @@
+name: sugar
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - nogginly <nogginly@icloud.com>
+
+description: |
+  Some syntactic (and maybe API) sugar for Crystal programs.
+
+development_dependencies:
+  # ameba:
+  #   github: crystal-ameba/ameba
+  # spectator:
+  #   gitlab: arctic-fox/spectator
+
+dependencies:
+
