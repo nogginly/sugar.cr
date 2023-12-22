@@ -26,6 +26,10 @@ Some syntactic (and maybe API) sugar for Crystal programs.
 ### Lazy variables
 
 ```cr
+require 'sugar'
+
+include Sugar
+
 class Num(T)
   def initialize(@value : T); end
 
